@@ -3,6 +3,9 @@ A scientific dialogue platform for research articles
 
 ![](https://img.shields.io/badge/Vārtā-Development-green)
 [![](https://img.shields.io/badge/all_contributors-1-orange)](#contributors)
+![](https://img.shields.io/badge/web_development-8A2BE2)
+
+
 
 
 
