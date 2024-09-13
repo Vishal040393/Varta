@@ -2,6 +2,9 @@
 A scientific dialogue platform for research articles
 
 ![](https://img.shields.io/badge/Vārtā-Development-green)
+[![](https://img.shields.io/badge/all_contributors-1-orange)](#contributors)
+
+
 
 **Vārtā (वार्ता)**:— a talk; talks, negotiation; **Origin** _Sanskrit_ 
 
